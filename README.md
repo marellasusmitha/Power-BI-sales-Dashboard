@@ -12,7 +12,7 @@ It provides insights into revenue, profit, and product performance across countr
 - **Filters**: Country, Product, and Month slicers for interactivity.
 
 ## 📸 Dashboard Preview
-![Dashboard Screenshot](<img width="1175" height="736" alt="sales output" src="https://github.com/user-attachments/assets/c5bdcd73-5c1f-45a1-8a62-6fdea1b3e474" />)
+(<img width="1175" height="736" alt="sales output" src="https://github.com/user-attachments/assets/c5bdcd73-5c1f-45a1-8a62-6fdea1b3e474" />)
 
 ##  Insights
 - Identified **top-performing product categories** and their profit margins.
